@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\bin\Debug\netcoreapp3.1\CollectionGeneric.exe
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\bin\Debug\netcoreapp3.1\CollectionGeneric.deps.json
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\bin\Debug\netcoreapp3.1\CollectionGeneric.runtimeconfig.json
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\bin\Debug\netcoreapp3.1\CollectionGeneric.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\bin\Debug\netcoreapp3.1\CollectionGeneric.dll
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\bin\Debug\netcoreapp3.1\CollectionGeneric.pdb
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.dll
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.pdb
+C:\Users\DELL\source\repos\Collection1\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.genruntimeconfig.cache
